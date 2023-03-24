@@ -8,7 +8,7 @@ If you like my work, feel free to engage with me in some kind of way using the m
 
 ## 🔭 I’m currently working on ...
 
-Redesigns of older sites that need a comeback. If you need some work done, please do email me or reach out somehow, I am always willing to help in any way I can.
+Redesigns of older sites that need a comeback. If you need some work done, please do email me or reach out somehow, I am always willing to help in any way I can. I created the org ["Leatheresque Redesigns"](https://github.com/site-redesigns) to showcase sites I am working on.
 
 ## ✨ Awards & Certifications ...
 
@@ -18,6 +18,14 @@ I have a few, I am working on getting them set up in the "Projects" tab for view
 
 - Email: [creekhippybear@gmail.com](mailto:creekhippybear@gmail.com)
 
+### Ruby Gems
+
+- pydoodle Plugin: https://rubygems.org/profiles/leatheresque
+- Jekyll themes: https://github.com/jekyll-bootstrap
+
+### Microsoft Marketplace
+
+- [Bootstrap v5.3 Snippets](https://marketplace.visualstudio.com/items?itemName=leatheresque.bootstrap-v5-snippets): Add Bootstrap code snippets to VS code
 <!--
 **leatheresque/leatheresque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
