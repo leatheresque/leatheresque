@@ -8,9 +8,10 @@ If you like my work, feel free to engage with me in some kind of way using the m
 
 ## 🔭 Projects
 
+- [Hasidic New Times](https://hasidic.dev) Hasidic Newspaper Blog
 - [Jekyllgems:](https://jekyllgems.dev) Website I am building to showcase gems I develop for Jekyll
 - [Jekyll Themes:](https://github.com/jekyllgems/templates) I create themes and templates for users
-- [Plugins:](https://github.com/jekyllgems/plugins) Here are some plugins I made
+- [Jekyll Plugins:](https://github.com/jekyllgems/plugins) Here are some plugins I made
 - [Bootstrap v5.3 Snippets:](https://marketplace.visualstudio.com/items?itemName=leatheresque.bootstrap-v5-snippets) Add Bootstrap code snippets to VS code
 - **Jekyll-Snippets:** Extension to add a few handy jekyll snippets to VS Code
 
@@ -23,7 +24,6 @@ I am focused on getting my profile up and running first. I will contribute to so
 - JAMStack
 - Javascript / HTML / CSS
 - Ruby
-- Python
 - Linux Administration
 - Project Management
 
